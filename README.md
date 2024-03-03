@@ -6,6 +6,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npx json-server --watch -p 8000 db.json`
+
+--watch/-w can be omitted, JSON Server 1+ watches for file changes by default
+JSON Server started on PORT :8000
+Press CTRL-C to stop
+Watching db.json...
+
+♡⸜(˶˃ ᵕ ˂˶)⸝♡
+
+Index:
+http://localhost:8000/
+
+Static files:
+Serving ./public directory if it exists
+
+Endpoints:
+http://localhost:8000/student
+
 ### `npm start`
 
 Runs the app in the development mode.\
