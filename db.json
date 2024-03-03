@@ -1,0 +1,11 @@
+{
+  "student": [
+    {
+      "id": "899a",
+      "name": "Hello",
+      "email": "yes@yes",
+      "phone": "987654321",
+      "department": "ede"
+    }
+  ]
+}
